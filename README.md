@@ -28,9 +28,37 @@
 - 群里分享链接 & 截图，感受你的第一张网页成就感！
 
 ---
-
 ## 🌟 这只是开始  
 下一步，想让页面更个性？切到 `week2-style-custom` 分支看看！  
 想让页面连上数据库？切到 `week3-supabase-integration` 分支！  
 
 加油，Page One，从这里开始 🚀
+
+---
+
+## 🛠️ 本地开发环境准备
+
+想在本地自由修改文件、实时预览效果？你可以按以下步骤操作 👇
+
+1️⃣ **安装 Git**  
+👉 [Git 官网下载](https://git-scm.com/)  
+👉 安装后，命令行输入 `git --version` 确认安装成功
+
+2️⃣ **安装 VS Code**  
+👉 [VS Code 官网下载](https://code.visualstudio.com/)  
+👉 现代编辑器，方便查看和修改网页文件
+
+3️⃣ **安装 Python3（或其它本地 HTTP 服务）**  
+👉 macOS / Linux 通常已内置  
+👉 Windows 用户可通过 Microsoft Store 安装  
+👉 安装后，命令行输入 `python3 --version` 验证
+
+
+---
+
+### 🚀 启动本地开发服务器
+
+在你的项目文件夹里执行：
+```bash
+python3 -m http.server 8000
+```
