@@ -1,2 +1,50 @@
-# pageone-template
-A simple static website template for Page One Workshop.
+# Page One Template
+
+👋 欢迎来到 Page One Workshop!  
+这是一个为零基础用户准备的网页模板，只需要跟着以下步骤，就能把它变成**属于你的网站**。
+
+---
+
+## 🚀 第一步：Fork 这个模板
+
+1. 登录 GitHub。
+2. 点击右上角的 **Fork** 按钮，复制到你的账号下。
+
+---
+
+## 🌍 第二步：启用 GitHub Pages
+
+1. 在你 Fork 后的仓库里，点击 **Settings**。
+2. 找到 **Pages**，选择分支（`main`）和根目录，保存。
+3. 几秒钟后，你会得到一个像 `https://你的用户名.github.io/pageone-template` 的链接。
+
+恭喜！你的网站已经上线啦！
+
+---
+
+## ✏️ 第三步：改第一行文字
+
+1. 在仓库中，找到 `index.html`。
+2. 点击编辑（铅笔图标），把 `<h1>Hello World!</h1>` 改成你想说的话。
+3. 保存（Commit changes）。
+
+刷新你的网站，看看是不是变了？
+
+---
+
+## 🎨 想做更多？
+
+- 修改 `style.css` 改变样式。
+- 把 `images/sample.jpg` 换成你自己的图片。
+- 如果想让页面更酷，试试在群里问：**“ChatGPT，我想让页面更可爱，帮我写点 CSS！”**
+
+---
+
+## 💬 遇到问题？
+
+随时在微信群里提问，我们一起帮你解锁下一个小成就！
+
+---
+
+🌱 这是你第一张网页，也许是创造力的起点。  
+加油！Page One，从这里开始 🚀
